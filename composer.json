@@ -1,0 +1,20 @@
+{
+    "name": "spbitec/bitrix_api",
+    "type": "library",
+    "description": "spbitec.ru bitrix api",
+    "keywords": [],
+    "homepage": "https://spbitec.ru",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VI",
+            "email": "vi@spbitec.ru"
+        },
+        {
+            "name": "VS",
+           "email": "vs@spbitec.ru"        }
+    ],
+    "autoload": {
+        "psr-4": {"spbitec\\": "/"}
+    }
+}
